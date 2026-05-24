@@ -1,4 +1,4 @@
-このGIF画像をリネームして、ReadMeの中に貼っておいてほしい。# 晩酌録 / BanshakuLog
+# 晩酌録 / BanshakuLog
 
 自分の晩酌を「お酒図鑑」として記録・可視化する Power Apps ソリューションです。
 
