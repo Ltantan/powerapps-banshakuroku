@@ -1,0 +1,30 @@
+# 開発用ファイル（公開しない）
+CLAUDE.md
+ARCHITECTURE.md
+SPEC.md
+PLAN.md
+TODO.md
+KNOWLEDGE.md
+.claude/
+src/
+
+# 機密情報
+.env
+.env.*
+credentials.json
+token.json
+*.key
+*.pem
+.auth_record.json
+
+# 一時ファイル
+_inbox.md
+_scratch/
+
+# OS / エディタ
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*~
