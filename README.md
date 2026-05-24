@@ -54,6 +54,14 @@
 | テーブル | bs_sessionsnack | セッション × おつまみ（中間テーブル） |
 | Publisher | 晩酌ラボ | プレフィックス: `bs` |
 
+## アーキテクチャ
+
+ER 図・画面フロー・シーケンス図などの詳細は [ARCHITECTURE.md](ARCHITECTURE.md) を参照してください。
+
+## 開発について
+
+キャンバスアプリの YAML 編集および Code Apps（React + TypeScript）の開発には [Claude Code](https://claude.ai/claude-code) を使用しています。
+
 ## ライセンス
 
 MIT License — 詳細は [LICENSE](LICENSE) を参照。
